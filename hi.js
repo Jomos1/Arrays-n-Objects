@@ -20,3 +20,28 @@ var donut = {
 	count : 12
 
 }
+
+function kill(GGnoRE) {
+	console.log(GGnoRE[0] + GGnoRE[1]);
+}
+
+kill(numbers);
+
+function skrub(arg) {
+	for (var i = arg.length - 1; i >= 0; i--) {
+		arg[i]
+	}
+}
+
+skrub(donut.toppings);
+
+function sorusuru_sutone(Sombra) {
+	
+}
+
+
+/*HOW TO PRONOUNCE SORUSURU SUTONE
+
+SO-ROO-SOO-ROO SOO-TOE-NEH
+
+*/`
