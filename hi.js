@@ -19,6 +19,7 @@ var donut = {
 	shape : "squares",
 	count : 12
 
+
 }
 
 function kill(GGnoRE) {
@@ -36,8 +37,13 @@ function skrub(arg) {
 skrub(donut.toppings);
 
 function sorusuru_sutone(Sombra) {
+	if (donut.topping == jalapeno) {
+		console.log("There are " + donut.count + " donuts with " + donut.toppings + " with " + donut.fillings + " for fillings!")
+	}
 	
 }
+
+Sombra(donut)
 
 
 /*HOW TO PRONOUNCE SORUSURU SUTONE
